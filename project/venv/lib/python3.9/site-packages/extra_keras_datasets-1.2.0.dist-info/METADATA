@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: extra-keras-datasets
+Version: 1.2.0
+Summary: Extending the Keras Datasets module with extra ones.
+Home-page: https://github.com/christianversloot/extra_keras_datasets
+Author: Christian Versloot
+Author-email: chris@machinecurve.com
+License: MIT
+Download-URL: https://github.com/christianversloot/extra_keras_datasets/archive/v1.2.0.tar.gz
+Keywords: keras,datasets,machine learning
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+
+Extending the Keras Datasets module with extra ones.
+
+
